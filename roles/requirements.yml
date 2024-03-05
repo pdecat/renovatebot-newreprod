@@ -1,0 +1,10 @@
+---
+roles:
+  - name: docker_management
+    src: git@gitlab.com:nofusscomputing/projects/ansible/docker_management.git
+    scm: git
+    version: "0.0.1"
+  - name: golang
+    src: git@github.com:gantsign/ansible-role-golang.git
+    scm: git
+    version: "3.2.6"
