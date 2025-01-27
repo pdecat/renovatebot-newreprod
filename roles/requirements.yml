@@ -7,4 +7,4 @@ roles:
   - name: golang
     src: git@github.com:gantsign/ansible-role-golang.git
     scm: git
-    version: "3.2.6"
+    version: "3.4.1"
